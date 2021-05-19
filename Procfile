@@ -1,1 +1,1 @@
-web: gunicorn solarradiation.wsgi --log-file-
+web: gunicorn solarradiation.wsgi --log-file -
